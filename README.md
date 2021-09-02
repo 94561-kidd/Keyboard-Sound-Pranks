@@ -11,3 +11,6 @@ pip install keyboard
 ## Installation
 For Windows(64bit) user, you could download setup.zip from the latest Releases. Decompress it and run setup.bat.  
 It would copy program files to "%USERPROFILE%\AppData\Local\Programs\Keyboard-Sound-Pranks", and add link to startup. The program would auto run soon.
+
+## Example
+You could watch [the video](https://www.youtube.com/watch?v=fjh0eetoolQ) to know what it do.
