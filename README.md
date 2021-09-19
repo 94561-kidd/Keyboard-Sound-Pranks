@@ -14,3 +14,6 @@ It would copy program files to "%USERPROFILE%\AppData\Local\Programs\Keyboard-So
 
 ## Example
 You could watch [the video](https://www.youtube.com/watch?v=fjh0eetoolQ) to know what it do.
+
+## Platforms
+It supports Windows and Linux.
