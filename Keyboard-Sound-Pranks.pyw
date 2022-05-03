@@ -9,7 +9,7 @@ pygame.mixer.init()
 
 
 def sound(x):
-    if x.event_type == 'down':
+    if x.event_type == 'up':
         resource = 'sound\\'+str(random.randint(1, 6))+'.wav'
         soundwav = pygame.mixer.Sound(resource)
         soundwav.play()
